@@ -9,9 +9,13 @@ This project provides data-driven insights to help businesses make informed deci
 The goal of this project is to analyze business performance and provide actionable insights by leveraging Power BI for:
 
 Sales Performance Analysis 📊
+
 Revenue & Profitability Trends 💰
+
 Marketing Effectiveness 📢
+
 Supply Chain Optimization 🚚
+
 Executive-Level Decision-Making 🏢
 
 🛠️ Tools & Technologies Used
